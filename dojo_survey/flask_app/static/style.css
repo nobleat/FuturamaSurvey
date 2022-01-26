@@ -1,0 +1,12 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color: rgb(61, 191, 147);
+    text-align: center;
+}
+
+h3{
+    font-weight: lighter;
+}
